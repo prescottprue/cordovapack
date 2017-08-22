@@ -8,3 +8,5 @@ platforms
 plugins
 public
 hooks
+*.log
+www
