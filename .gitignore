@@ -1,0 +1,10 @@
+coverage/**
+**/node_modules/**
+dist/**
+src/index.html
+blueprints/**
+src/config.js
+platforms
+plugins
+public
+hooks
