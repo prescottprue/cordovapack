@@ -26,7 +26,8 @@ class App extends React.Component {
   render() {
     return (
       <div style={styles.main}>
-        React + Cordova + Webpack
+        <span>React + Cordova + Webpack</span><br />
+        <span>Line 2</span>
       </div>
     )
   }
